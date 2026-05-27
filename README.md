@@ -1,9 +1,8 @@
 # Restaurant-Reservation-System
 A Python restaurant reservation system using data structures and algorithms (Hash Maps, Priority Queues, Sorting)
+
 ### Data Structure #1: Hash Maps (Dictionaries)
-
 First, hash maps.
-
 When I store customers in a hash map with their ID as the key, finding a customer is instant - O(1) time complexity. That means whether I have 10 customers or 10 million customers, finding one takes the same tiny fraction of a second.
 
 In my code, I use:
